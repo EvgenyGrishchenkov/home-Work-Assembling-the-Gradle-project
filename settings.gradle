@@ -1,0 +1,5 @@
+rootProject.name = 'builgGradle'
+include 'db'
+include 'service'
+include 'api'
+
